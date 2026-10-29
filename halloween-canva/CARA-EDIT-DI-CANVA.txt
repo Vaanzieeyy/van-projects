@@ -1,0 +1,11 @@
+DESAIN HALLOWEEN — RASIO 4:5
+
+1. Buka Canva dan unggah/impor Halloween-Koper-4x5-Canva.pptx.
+2. Buka desain hasil impor.
+3. Dua headline merupakan kotak teks terpisah: bisa diganti kalimat, font, ukuran, dan warna.
+4. Background serta kelompok koper-topi-sapu adalah dua gambar terpisah. Pilih melalui panel layer/Position bila sulit diklik.
+5. Font desain: Creepster. Bila impor mengganti font, pilih Creepster di Canva atau font Halloween pengganti.
+6. Rasio halaman 4:5. Untuk PNG ukuran 1080x1350, gunakan file pratinjau yang disertakan, atau atur ukuran ekspor di Canva.
+
+BATAS EDITABILITAS
+Koper, topi, sapu dan jaring adalah satu layer PNG transparan; masing-masing detailnya bukan vektor terpisah. Aset diproses dengan AI dari poster sebelumnya, sehingga kesamaan detail terhadap foto produk asli tidak dijamin. Canva belum terhubung ke sesi ini: file PPTX sudah diperiksa strukturnya, tetapi hasil impor Canva belum diuji.
