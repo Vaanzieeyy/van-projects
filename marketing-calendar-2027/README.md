@@ -9,3 +9,9 @@ Snapshot: 18 November 2026, Asia/Jakarta.
 Kalender bulanan dan harian adalah snapshot; perubahan event perlu diperbarui pada tab terkait. File tidak tersinkron otomatis dengan situs sumber.
 
 CSV dapat diimpor ke Google Sheets, tetapi format biru tersedia lengkap di XLSX.
+
+## Pratinjau desain v2 — DRAF
+
+[Download Excel dengan kalender interaktif](./design-preview/Metaverse_Koper_Marketing_Calendar_2027_v2_DRAFT.xlsx?raw=true) · [Lihat pratinjau dan status sumber](./design-preview/README.md)
+
+8 tab kerja, navigasi beranda, pilihan bulan dan kolom input yang jelas. Data primer belum difinalkan karena akses pemerintah/PBB masih diblokir; lihat status pada workbook.

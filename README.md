@@ -18,3 +18,9 @@ Kalender Indonesia dengan tema biru: 19 tab, 12 kalender bulanan, 365 tanggal, 9
 [Daftar event CSV](./marketing-calendar-2027/Metaverse_Koper_2027_Events.csv?raw=true) · [Panduan dan status sumber](./marketing-calendar-2027/README.md)
 
 Snapshot 18 November 2026. Verifikasi langsung sumber pemerintah/PBB masih terhambat akses jaringan; tanggal sekunder, perkiraan dan rencana internal diberi status di workbook. File tidak tersinkron otomatis dengan sumber.
+
+## Pratinjau desain v2 — DRAF
+
+[Download Excel dengan kalender interaktif](./marketing-calendar-2027/design-preview/Metaverse_Koper_Marketing_Calendar_2027_v2_DRAFT.xlsx?raw=true) · [Lihat pratinjau dan status sumber](./marketing-calendar-2027/design-preview/README.md)
+
+8 tab kerja, navigasi beranda, pilihan bulan dan kolom input yang jelas. Data primer belum difinalkan karena akses pemerintah/PBB masih diblokir; lihat status pada workbook.
