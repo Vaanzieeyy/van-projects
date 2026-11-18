@@ -1,5 +1,16 @@
 # Metaverse Koper — Marketing Calendar Indonesia 2027
 
+## Kalender visual dan agenda harian
+
+[Unduh Excel](./visual/Kalender-Marketing-Metaverse-Koper-2027.xlsx?raw=true) · [Unduh kalender visual PDF](./visual/Kalender-Visual-2027.pdf?raw=true) · [Unduh agenda harian CSV](./visual/Agenda-Harian-2027.csv?raw=true)
+
+Excel dibuka pada README dua kolom seperti referensi. Pilih bulan di tab Kalender, filter 365 tanggal di Agenda harian, dan isi PIC atau status untuk 36 usulan tindakan kampanye di Rencana konten. PDF berisi kalender setahun, 12 halaman bulanan, dan daftar sumber. CSV memakai tanggal ISO untuk impor ke Google Sheets.
+
+Posisi hari telah diperiksa untuk setiap tanggal 2027. Data 18 libur dan 8 cuti cocok dengan sumber sekunder Python holidays 0.109. Kelima rujukan yang diberikan pengguna dicantumkan pada tab Sumber. Saat diperiksa pada 18 November 2026, jaringan mengembalikan CONNECT 403 sebelum mengirim isi sumber. Gunakan hasil pemeriksaan primer untuk menetapkan jadwal operasional. Awal Ramadan 8 Februari masih perkiraan.
+
+## Versi sebelumnya
+
+
 Snapshot: 18 November 2026, Asia/Jakarta.
 
 [Unduh workbook Excel](./Metaverse_Koper_Marketing_Calendar_2027.xlsx?raw=true) · [Unduh daftar event CSV](./Metaverse_Koper_2027_Events.csv?raw=true). Berisi README, ringkasan, daftar event, 365 tanggal, 12 kalender bulanan, campaign plan, sumber dan log verifikasi.

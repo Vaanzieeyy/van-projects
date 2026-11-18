@@ -11,6 +11,12 @@ Product and logo visuals were processed from the supplied references with AI ass
 
 ## Marketing Calendar Metaverse Koper 2027
 
+[Unduh Excel](./marketing-calendar-2027/visual/Kalender-Marketing-Metaverse-Koper-2027.xlsx?raw=true) · [Unduh kalender visual PDF](./marketing-calendar-2027/visual/Kalender-Visual-2027.pdf?raw=true) · [Unduh agenda harian CSV](./marketing-calendar-2027/visual/Agenda-Harian-2027.csv?raw=true)
+
+Kalender visual, 365 tanggal, dan 36 usulan konten. Status sumber tersedia di README workbook.
+
+### Versi sebelumnya
+
 [Download Excel — Marketing Calendar 2027](./marketing-calendar-2027/Metaverse_Koper_Marketing_Calendar_2027.xlsx?raw=true)
 
 Kalender Indonesia dengan tema biru: 19 tab, 12 kalender bulanan, 365 tanggal, 97 agenda terkurasi, campaign plan, README, sumber dan log verifikasi.
