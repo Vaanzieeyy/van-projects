@@ -1,5 +1,11 @@
 # Metaverse Koper — Marketing Calendar Indonesia 2027
 
+## Data rujukan untuk kalender 2027
+
+[Unduh 42 entri untuk Google Sheets (CSV)](./visual/Data-Rujukan-2027.csv?raw=true) · [Buka tab Data rujukan di Excel](./visual/Kalender-Marketing-Metaverse-Koper-2027.xlsx?raw=true)
+
+Tabel memuat 18 tanggal libur, 8 cuti bersama, 15 peringatan internasional, dan 1 perkiraan awal Ramadan. Setiap baris mencatat dasar tanggal, tautan untuk pemeriksaan, serta usulan tindakan bagi Metaverse Koper. Pada 18 November 2026, proxy mengembalikan 403 untuk kelima rujukan. Isi dokumen primer masih menunggu pembacaan. Data libur dan cuti mengikuti holidays 0.109, sedangkan perkiraan awal Ramadan mengikuti screenshot README pengguna.
+
 ## Kalender visual dan agenda harian
 
 [Unduh Excel](./visual/Kalender-Marketing-Metaverse-Koper-2027.xlsx?raw=true) · [Unduh kalender visual PDF](./visual/Kalender-Visual-2027.pdf?raw=true) · [Unduh agenda harian CSV](./visual/Agenda-Harian-2027.csv?raw=true)
